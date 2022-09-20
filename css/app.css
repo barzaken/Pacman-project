@@ -1,0 +1,63 @@
+body {
+  background-color: black;
+  color:white;
+
+}
+
+.table{
+  margin: auto;
+}
+
+h1{
+  width: fit-content;
+  margin: 5rem auto;
+  text-align: center;
+  font-size: 3rem;
+  color: #ff00fb;
+  border: 2px dotted #ff00fb;
+  transition: 1s;
+}
+
+h2{
+  margin: 5rem auto;
+  transition: 1s;
+  color: #ff00fb;
+  text-align: center;
+}
+
+
+
+.cell {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+
+.modal {
+  color: #ff00fb;
+  width: fit-content;
+  opacity: 80%;
+  margin: auto;
+  text-align: center;
+  font-size: 30px;
+}
+
+.modal button {
+  color: #ff00fb;
+  font-family: inherit;
+  display: inline-block;
+  width: 6em;
+  height: 2.6em;
+  line-height: 2.5em;
+  overflow: hidden;
+  margin: 20px;
+  font-size: 17px;
+  z-index: 1;
+  color: #ff00fb ;
+  border: 2px solid #ff00fb;
+  border-radius: 6px;
+  position: relative;
+}
+
